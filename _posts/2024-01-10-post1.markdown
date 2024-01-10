@@ -1,0 +1,14 @@
+---
+layout: post
+title: First article of Joonhu's blog
+date: 2024-01-10 16:49:23 +0900
+category: sample
+---
+# 안녕하세요
+> 블로그 첫 시작 해보겠습니다
+
+앜앜앜
+
+```ruby
+print 'hello world'
+```
